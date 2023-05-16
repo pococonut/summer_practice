@@ -237,7 +237,7 @@ int main() {
     }
     f.close();
 }
-
+```
 #### Вывод
 
 ![image](https://github.com/pococonut/summer_practice/assets/114181600/395e1c00-355f-463e-ad46-87ef1507ea38)
